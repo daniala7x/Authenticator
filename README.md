@@ -2,11 +2,6 @@
 <html lang="id">
 <head>
 <meta charset="utf-8">
-<title>Kode OTP Google Authenticator</title>
-<style>
-    body {font-family: Bahnschrift Light, sans-serif;background: #000080;color: #333;padding: 20px;}p {font-family: Bahnschrift Light}h1 {color: #2c3e50;font-size: 24px;}.container {background: white;padding: 20px;border-radius: 10px;max-width: 40em;margin: auto;box-shadow: 0 4px 10px rgba(0,0,0,0.1);}input[type="file"], input[type="text"] {margin-top: 10px;padding: 8px;font-family: Bahnschrift Light;border: 1px solid #ccc;border-radius: 6px;background: #f9f9f9;width: 100%;box-sizing: border-box;}#output {background: #000080;color: yellow;padding: 15px;border-radius: 6px;margin-top: 20px;font-family: Bahnschrift Light;white-space: pre-wrap;max-height: 400px;overflow-y: auto;}button {margin-top: 15px;padding: 8px 12px;background: #000080;color: yellow;border: none;border-radius: 6px;cursor: pointer;font-family: Bahnschrift Light;}button:hover {background: #2980b9;}.radio-group {display: flex;gap: 15px;margin: 10px 0;}.radio-group label {display: flex;align-items: center;gap: 5px;cursor: pointer;transition: 0.2s;}.radio-group input[type="radio"] {accent-color: #007bff;transform: scale(1.2);}
-</style>
-</head>
 <body>
 <div class="container">
 	<h1> 🔑 Kode OTP Google Authenticator </h1>
